@@ -4,3 +4,4 @@ nextjs
 redux
 mdx
 module scss
+biome
