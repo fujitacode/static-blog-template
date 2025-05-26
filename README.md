@@ -27,7 +27,7 @@ Turbopack による高速開発と、MDXを活用した柔軟な記事構造、R
 
 ---
 
-## 🗂 ディレクトリ構成
+## 🗂 構成
 
 ```txt
 src/
@@ -37,8 +37,6 @@ src/
 ├── lib/          # Redux storeなどのロジック
 ├── posts/        # MDX記事フォルダ
 └── types/        # TypeScript 型定義
-
-## 🗂 スクリプト
 
 pnpm dev         # 開発サーバー起動 (Turbopack使用)
 pnpm build       # 本番ビルド
